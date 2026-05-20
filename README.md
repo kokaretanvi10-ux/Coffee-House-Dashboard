@@ -72,3 +72,6 @@ Tanvi Kokare
     •	Banking & Finance Graduate 
 
     •	Data Analytics Enthusiast
+
+📬 Contact
+www.linkedin.com/in/tanvikokare
