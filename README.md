@@ -2,9 +2,6 @@
 📊 Project Overview
 This project presents an interactive Coffee House Sales Dashboard built using Power BI. The dashboard provides insights into sales performance, customer behaviour, and product trends to support data-driven decision-making.
 
-📂 File Included
-https://drive.google.com/file/d/1OKe83eha4GmnxZBM9KpuiibmWBNIbTTK/view?usp=drive_link
-
 🎯 Objectives-
 
     •	Analyze overall sales performance 
